@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 5%;
+  overflow: scroll;
+  padding-top: 0;
+}
+body {
+  width: 320px;
+  margin: auto;
+}
+hr {
+  border: 1px solid gray;
+}
+table {
+  border: 1px solid;
+}
+tr {
+  border: 1px solid;
+}
+
+td {
+  border: 1px solid;
+}
+.hidden {
+  display: none;
+}

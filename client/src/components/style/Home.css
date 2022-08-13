@@ -1,0 +1,32 @@
+.header {
+  position: sticky;
+  background-color: rgb(114, 160, 114);
+  width: 100%;
+  margin-bottom: 10px;
+  top: 100px;
+  border-bottom: 1px solid gray;
+}
+.header > button {
+  width: 50%;
+  border: none;
+  height: 100%;
+  padding: 6px;
+}
+button:hover {
+  cursor: pointer;
+}
+/* hr {
+  border: 1px solid;
+} */
+.product {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  text-align: left;
+}
+.line {
+  width: 120px;
+  margin-top: 25px;
+  border: 1px solid rgb(219, 217, 217);
+  background-color: rgb(219, 217, 217);
+}

@@ -1,0 +1,10 @@
+.body-fav {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+}
+.product {
+  margin-top: 25px;
+  text-align: left;
+}

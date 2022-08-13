@@ -1,0 +1,20 @@
+.second_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(114, 160, 114);
+  height: 80px;
+  position: sticky;
+  top: 0px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.header-details,
+.body {
+  width: 90%;
+  margin: auto;
+}
+table {
+  width: 100%;
+}

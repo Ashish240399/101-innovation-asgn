@@ -1,0 +1,11 @@
+.SecondNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(114, 160, 114);
+  height: 80px;
+  position: sticky;
+  padding: 10px;
+  top: 0px;
+  width: 300px;
+}
